@@ -1,0 +1,15 @@
+.heading{
+    background-color: black;
+    color: aquamarine;
+}
+.info{
+    background-color: blue;
+  color: antiquewhite;
+}
+#king{
+    background-color: aquamarine;
+}
+#bot{
+    background-color: aquamarine;
+    color: black;
+}
